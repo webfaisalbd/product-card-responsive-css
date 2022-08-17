@@ -37,3 +37,19 @@ body {
 .single-box:last-child {
     margin-right: 0;
 }
+
+.single-box .img img {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.single-box .price {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.img {
+    position: absolute;
+    top: -25%;
+    left: 20%;
+}
